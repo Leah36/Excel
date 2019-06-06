@@ -1,23 +1,3 @@
- README.md 
- Find file 
-Blame
-History
-Permalink
-
-Housekeeping 
-Alex Simonian authored 4 days ago 
-
-06fc8bc4 
-
- README.md 
-
-5.12 KB 
- 
- 
-
-
-
-
 Unit 1 Homework: Kickstart My Chart
 
 Background
